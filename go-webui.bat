@@ -1,2 +1,3 @@
-runtime\python.exe webui.py zh_CN
+./.venv/Scripts/activate
+python.exe python webui.py zh_CN
 pause
